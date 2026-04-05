@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 # dev-ops
 
 ---
 Simple dev ops learning project
-=======
+
+---
 # Sample UI App
 
 This repository contains a simple static UI application built with HTML, CSS, and JavaScript.
@@ -25,4 +25,3 @@ python3 -m http.server 8000
 ```
 
 Then navigate to `http://localhost:8000`.
->>>>>>> f5cbaccc6329def13dcf7589f7e1c1c620405d9e
