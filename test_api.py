@@ -3,7 +3,7 @@ import requests
 url = "https://payment.free.beeceptor.com/agreement-payment/debit-account-payment"
 
 data = {
-    "amount": 1000,
+    "amount": 1500,
     "account": "12345"
 }
 
